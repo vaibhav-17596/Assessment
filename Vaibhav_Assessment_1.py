@@ -1,9 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Tue Mar 31 15:50:36 2020
-
-@author: VAIBHAV SHARMA
-"""
 import math
 def assign():
     num=int(input("Enter a number: "))
@@ -47,7 +41,7 @@ assign()
 #round(sr,4) - if 4 not there, it will rund t the nearest integer
 
 
-input as num
+'''input as num
 n = num
 cunt = 0
 while n>0:
@@ -62,3 +56,4 @@ if int(rt + 0.5) ** 2 == num:
 	num is a perfect square
 else:
 	num is nt a perfect square
+'''
