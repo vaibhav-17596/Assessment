@@ -1,9 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Sun Apr 19 15:56:59 2020
-
-@author: VAIBHAV SHARMA
-"""
 import statistics
 lst=[]
 sam=[]
